@@ -1,0 +1,5 @@
+streamlit>=1.36
+pandas>=2.0
+mlxtend>=0.23
+plotly>=5.20
+
